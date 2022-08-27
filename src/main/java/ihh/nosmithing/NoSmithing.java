@@ -1,12 +1,10 @@
 package ihh.nosmithing;
 
 import net.minecraftforge.fml.common.Mod;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
-@Mod(NoSmithing.MODID)
+@Mod(NoSmithing.MOD_ID)
 public class NoSmithing {
-    public static final String MODID = "nosmithing";
+    public static final String MOD_ID = "nosmithing";
 
     public NoSmithing() {
     }
